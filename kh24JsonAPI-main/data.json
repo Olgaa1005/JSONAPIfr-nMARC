@@ -1,0 +1,11 @@
+{
+	"name": "Marcus",
+	"lastName": "Henriksson",
+  "age": 36,
+  "occupation": "Educator",
+
+	"kurser": [
+		{"kursNamn": "Databas", "studenter": 42},
+		{"kursNamn": "Testverktyg", "studenter": 19}
+	]
+}
